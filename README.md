@@ -36,17 +36,28 @@
 ### **Objective**: 
 Create a basic NFT marketplace interface using React, Next.js, Tailwind CSS, and your company's APIs.
 
+### **Resources**:
+
+#### Alchemy (NFT API)
+
+**Documentation**: https://docs.alchemy.com/reference/api-overview
+
+**Https**: https://eth-mainnet.g.alchemy.com/v2/FarmxARHgNUKd8lFkQG_Vzhf68fbTGjT
+
+**Api-Key**: FarmxARHgNUKd8lFkQG_Vzhf68fbTGjT
+
 ### **Instructions**:
 
 #### **Setup**:
 - Bootstrap a new Next.js project with TypeScript and Tailwind CSS.
 
 #### **Functionality**:
-- Fetch a list of NFTs available for sale from your company's API.
+- Showcase all Everai NFTs from this contract address: **0x9a38dec0590abc8c883d72e52391090e948ddf12** using our provided Alchemy API key.
+  
 - Display the NFTs in a grid layout. Each NFT card should show:
     - NFT Image
     - NFT Name
-    - Price
+    - Price (mock it)
     - A "Buy" button
 
 - Implement a search bar at the top of the page.
