@@ -5,7 +5,7 @@
 ### **React and Next.js**:
 1. Describe a situation where you would use Next.js instead of Create React App. Why?
 2. How do you handle SEO in a Next.js application? 
-3. What's the difference between `getStaticProps`, `getServerSideProps`, and `getInitialProps` in Next.js?
+3. Can you explain what React Server Components are and how they differ from traditional React Components?
 
 ### **Tailwind CSS**:
 1. How would you extend the default configuration of Tailwind in a project? Give an example.
